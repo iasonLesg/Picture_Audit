@@ -1,0 +1,35 @@
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community_MarkupCompile.cache
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community_MarkupCompile.lref
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\bin\Debug\net9.0-windows\Picture Audit Community.exe
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\bin\Debug\net9.0-windows\Picture Audit Community.deps.json
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\bin\Debug\net9.0-windows\Picture Audit Community.runtimeconfig.json
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\bin\Debug\net9.0-windows\Picture Audit Community.dll
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\bin\Debug\net9.0-windows\Picture Audit Community.pdb
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community.g.resources
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community.AssemblyInfoInputs.cache
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community.AssemblyInfo.cs
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community.csproj.CoreCompileInputs.cache
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community.dll
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\refint\Picture Audit Community.dll
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community.pdb
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community.genruntimeconfig.cache
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\ref\Picture Audit Community.dll
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\bin\Debug\net9.0-windows\MetadataExtractor.dll
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\bin\Debug\net9.0-windows\XmpCore.dll
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community.csproj.AssemblyReference.cache
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture .18E71223.Up2Date
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\App.baml
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\bin\Debug\net9.0-windows\SixLabors.ImageSharp.dll
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\StartScreen.baml
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\MainWindow.g.cs
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\StartScreen.g.cs
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\MainWindow.baml
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\DeleteConfirmation.baml
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\DeleteConfirmation.g.cs
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\Picture_Audit_Community.baml
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\Picture_Audit_Community.g.cs
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\Picture Audit Community_Content.g.cs
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\WarningBox.baml
+C:\Users\Bur\source\repos\Picture Audit Community\Picture Audit Community\obj\Debug\net9.0-windows\wpf_forms\WarningBox.g.cs

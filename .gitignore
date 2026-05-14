@@ -1,0 +1,28 @@
+## [1] Build Outputs (Debug/Release)
+[Bb]in/
+[Ob]j/
+Generated\ Files/
+
+## [2] Microsoft Store / Windows App SDK 
+# Exclude signing certificates (IMPORTANT: Never commit .pfx files)
+*.pfx
+*.snk
+*.pfx.certificate
+
+# AppX / MSIX Packaging artifacts
+AppPackages/
+BundleArtifacts/
+_pkg.visualstudio.mex
+Package.StoreAssociation.xml
+
+## Visual Studio Specifics
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## NuGet
+packages/
+*.nuget.props
+*.nuget.targets

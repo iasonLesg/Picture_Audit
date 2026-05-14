@@ -1,0 +1,69 @@
+﻿<Window x:Class="Picture_Audit_Community.WPF_FORMS.StartScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Picture Audit Community" Height="600" Width="900"
+        WindowStartupLocation="CenterScreen"
+        Background="{DynamicResource WindowBg}" 
+        Foreground="{DynamicResource MainText}"
+        FontFamily="Segoe UI">
+
+    <Grid Margin="60,40">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="1.2*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Left Side -->
+        <Grid Grid.Column="0" Margin="0,0,60,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <!-- For the Title -->
+                <RowDefinition Height="*"/>
+                <!-- For the List (fills remaining space) -->
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Text="Picture Audit Community" FontSize="32" FontWeight="Bold" 
+               Foreground="{DynamicResource PrimaryAccent}" Margin="0,0,0,30"/>
+
+            <ListBox Grid.Row="1" x:Name="RecentProjectsList" 
+             Background="Transparent" 
+             BorderThickness="0"
+             ScrollViewer.VerticalScrollBarVisibility="Auto"
+             ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="ListBoxItem">
+                                    <ContentPresenter />
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+            
+            </ListBox>
+        </Grid>
+        <!-- Right Side -->
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="Get started" FontSize="18" Margin="0,0,0,25" 
+                       Foreground="{DynamicResource SecondaryText}"/>
+
+            <Button Style="{StaticResource ActionButton}" Click="CreateProject_Click">
+                <StackPanel>
+                    <TextBlock Text="Create a new project" FontSize="14" FontWeight="SemiBold"/>
+                    <TextBlock Text="Start fresh with a new audit" FontSize="11" Opacity="0.8"/>
+                </StackPanel>
+            </Button>
+
+           
+
+            <Separator Background="{DynamicResource ControlBg}" Margin="0,15"/>
+
+            <Button Style="{StaticResource ActionButton}" Background="Transparent" 
+                    BorderBrush="Transparent" Click="ExitApp_Click">
+                <TextBlock Text="Exit Application" FontSize="14" Foreground="{DynamicResource SecondaryText}"/>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
