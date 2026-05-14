@@ -43,3 +43,25 @@ The application leverages multiple mathematical and statistical algorithms to de
 3.Restore NuGet packages.
 
 4.Build and Run!
+
+Open Picture_Audit.sln in Visual Studio.
+
+    Restore NuGet packages.
+
+    Build and Run!
+    
+🔒 Privacy & Security
+
+Because Picture_Audit is designed for forensic use, it operates 100% locally.
+
+    No Cloud API calls.
+
+    No telemetry.
+
+    No external data storage.
+
+⚖️ License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+Enjoy investigating! 🕵️‍♂️
